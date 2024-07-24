@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.smileycorp.noplayerlist.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "noplayerlist.refmap.json",
+    "server": [],
+	"mixins": [
+		"MixinPlayerList",
+		"MixinServerGamePacketListenerImpl"
+	],
+	"client": [
+		"MixinPlayerTabOverlay"
+	],
+	"minVersion": "0.8"
+}

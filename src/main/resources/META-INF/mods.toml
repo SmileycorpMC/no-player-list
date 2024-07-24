@@ -1,0 +1,13 @@
+modLoader="javafml" #mandatory
+loaderVersion="[34,)"
+license="GNU LESSER GENERAL PUBLIC LICENSE Version 2.1"
+
+[[mods]]
+modId="noplayerlist"
+version="1.0.1"
+displayName="No Player List"
+displayURL=""
+updateJSONURL=""
+credits=""
+authors="Smileycorp"
+description="I wanted to pick a more well known noble gas, but all the good ones argon"
